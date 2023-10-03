@@ -1,0 +1,44 @@
+[
+     [
+          {
+               "_id": "Team Leadership",
+               "average_height": 160.72727272727272
+          },
+          {
+               "_id": "Human Resources",
+               "average_height": 153.5
+          },
+          {
+               "_id": "Sales",
+               "average_height": 155.8
+          },
+          {
+               "_id": "Quality Assurance",
+               "average_height": 157.33333333333334
+          },
+          {
+               "_id": "Marketing",
+               "average_height": 160.5
+          },
+          {
+               "_id": "Data Analysis",
+               "average_height": 158.25
+          },
+          {
+               "_id": "Software Development",
+               "average_height": 157.25
+          },
+          {
+               "_id": "Project Management",
+               "average_height": 150.3846153846154
+          },
+          {
+               "_id": "Finance",
+               "average_height": 152.66666666666666
+          },
+          {
+               "_id": "Customer Service",
+               "average_height": 149.71428571428572
+          }
+     ]
+]
